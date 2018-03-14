@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="unustatud">unustatud</string>
+    <string name="registeeri">registeeri</string>
+    <string name="katsed">katsed</string>
+</resources>

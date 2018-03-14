@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50230536350",
+    "firebase_url": "https://login-26ee5.firebaseio.com",
+    "project_id": "login-26ee5",
+    "storage_bucket": "login-26ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50230536350:android:916de04938802095",
+        "android_client_info": {
+          "package_name": "com.example.opilane.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50230536350-fp89dtmoa3maqs76djbaonp3nrll245d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opilane.myapplication",
+            "certificate_hash": "cae03582620b68bdd50df862f4a8a6dcbcb1ec9d"
+          }
+        },
+        {
+          "client_id": "50230536350-3nbdbujabgutmp3teha09b6b1v9fcv03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiZ_VajR2_dOYrSUGVr7X5zJHy3QjFUl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50230536350-3nbdbujabgutmp3teha09b6b1v9fcv03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
